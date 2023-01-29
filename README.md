@@ -2,7 +2,7 @@
 
 TRAITEMENT-DU-SIGNAL-TP-1
 
-![image](https://user-images.githubusercontent.com/97410524/215338276-cc616544-999a-408d-abec-000b9d3f3aa8.png)
+
 
 # Objectifs
 Représentation de signaux et applications de la transformée de Fourier discrète (TFD) sous Matlab. • Evaluation de l’intérêt du passage du domaine temporel au domaine fréquentiel dans l’analyse et l’interprétation des signaux physiques réels.
